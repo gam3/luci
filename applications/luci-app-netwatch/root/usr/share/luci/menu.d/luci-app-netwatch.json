@@ -1,0 +1,13 @@
+{
+	"admin/services/netwatch": {
+		"title": "Netwatch",
+		"order": 50,
+		"action": {
+			"type": "view",
+			"path": "netwatch"
+		},
+		"depends": {
+			"acl": [ "luci-app-netwatch" ]
+		}
+	}
+}

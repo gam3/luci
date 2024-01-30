@@ -1,0 +1,66 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:38
+msgid "A boolean option"
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:43
+msgid "A select option"
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:55
+msgid "Dynamic list option"
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:31
+msgid "First Option"
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:37
+msgid "Flag Option"
+msgstr ""
+
+#: applications/luci-app-netwatch/root/usr/share/rpcd/acl.d/luci-app-netwatch.json:3
+msgid "Grant UCI and RPC access to LuCI app netwatch"
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:53
+msgid "Input for a password (storage on disk is not encrypted)"
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:32
+msgid "Input for the first option"
+msgstr ""
+
+#: applications/luci-app-netwatch/root/usr/share/luci/menu.d/luci-app-netwatch.json:3
+msgid "Netwatch"
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:25
+msgid "Netwatch Configuration"
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:26
+msgid "Netwatch Configuration Settings."
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:52
+msgid "Password Option"
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:42
+msgid "Select Option"
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:28
+msgid "first section"
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:34
+msgid "second section"
+msgstr ""
+
+#: applications/luci-app-netwatch/htdocs/luci-static/resources/view/netwatch.js:50
+msgid "third section"
+msgstr ""

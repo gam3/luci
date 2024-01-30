@@ -1,0 +1,15 @@
+{
+  "luci-app-netwatch": {
+    "description": "Grant UCI and RPC access to LuCI app netwatch",
+    "read": {
+      "uci": [
+        "netwatch"
+      ]
+    },
+    "write": {
+      "uci": [
+        "netwatch"
+      ]
+    }
+  }
+}
